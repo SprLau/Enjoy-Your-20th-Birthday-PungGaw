@@ -1,4 +1,21 @@
 // Animation Timeline
+
+console.log("                                                                    ");
+console.log("██╗  ██╗ █████╗ ██████╗ ██████╗ ██╗   ██╗                           ");
+console.log("██║  ██║██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝                           ");
+console.log("███████║███████║██████╔╝██████╔╝ ╚████╔╝                            ");
+console.log("██╔══██║██╔══██║██╔═══╝ ██╔═══╝   ╚██╔╝                             ");
+console.log("██║  ██║██║  ██║██║     ██║        ██║                              ");
+console.log("╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝        ╚═╝                              ");
+console.log("                                                                    ");
+console.log("██████╗ ██╗██████╗ ████████╗██╗  ██╗██████╗  █████╗ ██╗   ██╗██╗    ");
+console.log("██╔══██╗██║██╔══██╗╚══██╔══╝██║  ██║██╔══██╗██╔══██╗╚██╗ ██╔╝██║    ");
+console.log("██████╔╝██║██████╔╝   ██║   ███████║██║  ██║███████║ ╚████╔╝ ██║    ");
+console.log("██╔══██╗██║██╔══██╗   ██║   ██╔══██║██║  ██║██╔══██║  ╚██╔╝  ╚═╝    ");
+console.log("██████╔╝██║██║  ██║   ██║   ██║  ██║██████╔╝██║  ██║   ██║   ██╗    ");
+console.log("╚═════╝ ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝    ");
+console.log("                                                                    ");
+
 const animationTimeline = () => {
   // Spit chars that needs to be animated individually
   const textBoxChars = document.getElementsByClassName("hbd-chatbox")[0];
